@@ -5,7 +5,7 @@
 ```html
 	function exif_to_timestamp(str) 
 ```
-returns a timestamps, f.e.
+returns a timestamps
 
 ```html
 	function exif_to_date(str) 
